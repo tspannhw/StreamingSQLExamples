@@ -26,3 +26,13 @@ SELECT location,
 FROM weather2
 WHERE
     location is not null and location <> 'null' and trim(location) <> '' and location like '%NJ'
+
+
+# Sources
+
+Kafka - JSON only
+
+# Sinks
+
+* Webhook
+* Kafka
