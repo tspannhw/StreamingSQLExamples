@@ -65,3 +65,8 @@ Kafka - JSON only
 
 * Webhook
 * Kafka
+
+# References
+
+https://docs.eventador.io/sqlstreambuilder/ssb_sql_syntax_reference/
+
