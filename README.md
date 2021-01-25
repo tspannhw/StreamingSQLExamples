@@ -68,5 +68,13 @@ Kafka - JSON only
 
 # References
 
-https://docs.eventador.io/sqlstreambuilder/ssb_sql_syntax_reference/
+* https://docs.eventador.io/sqlstreambuilder/ssb_sql_syntax_reference/
+* https://docs.eventador.io/sqlstreambuilder/ssb_user_functions/
+
+
+# SQL Snippets
+
+  EPOCH_TO_TIMESTAMP(ts),
+  
+  
 
